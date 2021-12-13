@@ -1,6 +1,6 @@
-# Project 3 - *Name of App Here*
+# Project 3 - *Twitter for iOSe*
 
-**Twitter for iOS** is a basic twitter app to read your tweets.
+**Twitter** is a basic twitter app to read your tweets.
 
 Time spent: **5** hours spent in total
 
@@ -23,5 +23,5 @@ The following **bonus** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Part 1 Walkth' width='' alt='Video Walkthrough' />
 
