@@ -1,4 +1,4 @@
-# Project 3 - *Twitter for iOSe*
+# Project 3 - *Twitter for iOS*
 
 **Twitter** is a basic twitter app to read your tweets.
 
